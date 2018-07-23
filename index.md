@@ -8,13 +8,13 @@ I have more than 8 years of work experience in web-application development, more
 
 I believe people skills are as important as technical skills, so I do my best to work well with everyone to have a cohesive team. I’m always open to new approaches and looking for any tips I can apply to my own work. Constantly improving in myself in analytical skills and experience in web development, as well as problem solving.
 
-- Key Skills: Front-End Development, User Interface, User Experience
-- Other Skills: Full stack development, RESTFul APIs, Clean Code, Project Management
-- Languages: JavaScript, PHP, VB.NET, GraphQL, SQL 
-- Frameworks: React.js, JSX, Node.js, Backbone.js, Jquery, Bootstrap, Material UI, SASS, LESS
-- Databases: MySQL, MongoDB
-- Methodologies: Agile/SCRUM, BDD, TDD 
-- Tools: Git, Webpack
+* Key Skills: Front-End Development, User Interface, User Experience
+* Other Skills: Full stack development, RESTFul APIs, Clean Code, Project Management
+* Languages: JavaScript, PHP, VB.NET, GraphQL, SQL 
+* Frameworks: React.js, JSX, Node.js, Backbone.js, Jquery, Bootstrap, Material UI, SASS, LESS
+* Databases: MySQL, MongoDB
+* Methodologies: Agile/SCRUM, BDD, TDD 
+* Tools: Git, Webpack
 
-- Doing: React.js, redux and node.js
-- Learning: Node.js and IoT ecosystem
+* Doing: React.js, redux and node.js
+* Learning: Node.js and IoT ecosystem
