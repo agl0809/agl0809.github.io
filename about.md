@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Biography
+permalink: /
 ---
 
 I have more than 8 years of work experience in web-application development, more specifically in  analysis, design, coding and testing. I’ve worked in the travel and customer experience industries. I am a Senior Frontend Javascript Developer leading multi-discipline teams and focusing on building Javascript web applications with React and Redux, building and integrating APIs.
