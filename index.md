@@ -16,5 +16,3 @@ I believe people skills are as important as technical skills, so I do my best to
 * Methodologies: Agile/SCRUM, BDD, TDD 
 * Tools: Git, Webpack
 
-* Doing: React.js, redux and node.js
-* Learning: Node.js and IoT ecosystem
