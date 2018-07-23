@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biography
+title: About me :blush:
 order: 1
 ---
 
